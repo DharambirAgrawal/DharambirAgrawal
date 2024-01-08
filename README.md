@@ -57,11 +57,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.sangitaa.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.sangitaa.com.np/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/dharambirAgrawal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/dharambirAgrawal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DharambirAgrawal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/dharambirAgrawal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dharambir%20Agrawal-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.sangitaa.com.np/"><img alt="Email" src="https://img.shields.io/badge/Email-sangitaa.com.np-blue?style=flat-square&logo=gmail"></a>
+<a href="dev.dharambir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sangitaa.com.np-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 

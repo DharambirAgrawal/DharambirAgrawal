@@ -48,11 +48,12 @@
     <a href="https://github.com/Dharambirbro">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharambirbro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
-    <a href="https://github.com/AVS1508">
+    <a href="https://github.com/Dharambirbro">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharambirbro&layout=compact&langs_count=8&theme=algolia"/>
     </a>
   </div>
 </p>
+
 
 
 <h3> 🛠 &nbsp;Github Repos</h3>

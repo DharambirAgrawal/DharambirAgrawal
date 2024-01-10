@@ -53,8 +53,10 @@
     </a>
   </div>
 </p>
-<br/>
-### 🛠 &nbsp;Github Repos
+
+### ⚙️ &nbsp;GitHub Analytics
+### 🛠 &nbsp;Github Reposit
+### &nbsp;GitHub Repo
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)

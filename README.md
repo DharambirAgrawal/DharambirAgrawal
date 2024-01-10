@@ -70,7 +70,6 @@
 <a href="mailto:dev.dharambir@gmail.com"><img src="https://img.shields.io/badge/-dev.dharambir@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/DA9998"><img src="https://img.shields.io/badge/-@Dharambir%20Agrawal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-
 </p>
 
 

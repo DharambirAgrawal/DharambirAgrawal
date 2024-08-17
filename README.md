@@ -65,7 +65,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.sangitaa.com.np"><img src="https://img.shields.io/badge/-sangitaa.com.np-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.dharambir.com.np"><img src="https://img.shields.io/badge/-sangitaa.com.np-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dharambiragrawal/"><img src="https://img.shields.io/badge/-Dharambir%20Agrawal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dev.dharambir@gmail.com"><img src="https://img.shields.io/badge/-dev.dharambir@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/DA9998"><img src="https://img.shields.io/badge/-@Dharambir%20Agrawal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>

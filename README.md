@@ -1,4 +1,4 @@
-![Dharambir Agrawal Banner](https://github.com/Dharambirbro/Dharambirbro/blob/main/bg.jpg)
+![Dharambir Agrawal Banner](https://github.com/DharambirAgrawal/DharambirAgrawal/blob/main/bg.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Dharambir</h2>
 
@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at dev.dharambir@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.sangitaa.com.np/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://www.dharambir.com.np/resume) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -46,9 +46,9 @@
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/Dharambirbro">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharambirbro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DharambirAgrawal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
-    <a href="https://github.com/Dharambirbro">
+    <a href="https://github.com/DharambirAgrawal">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharambirbro&layout=compact&langs_count=8&theme=algolia"/>
     </a>
   </div>

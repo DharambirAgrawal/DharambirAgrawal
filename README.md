@@ -45,11 +45,11 @@
 
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/Dharambirbro">
+    <a href="https://github.com/DharambirAgrawal">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DharambirAgrawal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github.com/DharambirAgrawal">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharambirbro&layout=compact&langs_count=8&theme=algolia"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DharambirAgrawal&layout=compact&langs_count=8&theme=algolia"/>
     </a>
   </div>
 </p>

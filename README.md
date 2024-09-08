@@ -58,7 +58,7 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=PackageTemplate&show_owner=true)](https://github.com/DharambirAgrawal/integreat)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=integreat&show_owner=true)](https://github.com/DharambirAgrawal/integreat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
 <br/>
 

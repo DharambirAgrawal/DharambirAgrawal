@@ -59,7 +59,7 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=integreat&show_owner=true)](https://github.com/DharambirAgrawal/integreat)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Virtual-paint&show_owner=true)](https://github.com/DharambirAgrawal/Virtual-paint)
 <br/>
 
 ### 🤝🏻 &nbsp;Connect with Me

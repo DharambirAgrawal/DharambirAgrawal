@@ -34,7 +34,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -50,11 +49,15 @@
 
 ### 🛠 &nbsp;Github Reposit
 
-
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=integreat&show_owner=true)](https://github.com/DharambirAgrawal/integreat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Virtual-paint&show_owner=true)](https://github.com/DharambirAgrawal/Virtual-paint)
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DharambirAgrawal/DharambirAgrawal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DharambirAgrawal/DharambirAgrawal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DharambirAgrawal/DharambirAgrawal/output/github-snake.svg" />
+</picture>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -65,6 +68,3 @@
 <a href="https://facebook.com/DA9998"><img src="https://img.shields.io/badge/-@Dharambir%20Agrawal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
-
-
-

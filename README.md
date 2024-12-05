@@ -53,6 +53,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Virtual-paint&show_owner=true)](https://github.com/DharambirAgrawal/Virtual-paint)
 <br/>
 
+### 🐍 &nbsp;Snake Game
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DharambirAgrawal/DharambirAgrawal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DharambirAgrawal/DharambirAgrawal/output/github-snake.svg" />

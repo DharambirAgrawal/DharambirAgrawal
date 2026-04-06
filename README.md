@@ -56,9 +56,9 @@
 
 ### 🚀 &nbsp;Highlighted Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Distributed-File-System&show_owner=true)](https://github.com/DharambirAgrawal/Distributed-File-System)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Job-Search-Engine&show_owner=true)](https://github.com/DharambirAgrawal/Job-Search-Engine)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=pathgurus&show_owner=true)](https://github.com/DharambirAgrawal/pathgurus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Execify&show_owner=true)](https://github.com/DharambirAgrawal/Execify)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Vayumi&show_owner=true)](https://github.com/DharambirAgrawal/Vayumi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Job-Application-Bot&show_owner=true)](https://github.com/DharambirAgrawal/Job-Application-Bot)
 
 ---
 

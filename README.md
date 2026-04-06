@@ -56,9 +56,12 @@
 
 ### 🚀 &nbsp;Highlighted Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Execify&show_owner=true)](https://github.com/DharambirAgrawal/Execify)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Vayumi&show_owner=true)](https://github.com/DharambirAgrawal/Vayumi)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DharambirAgrawal&repo=Job-Application-Bot&show_owner=true)](https://github.com/DharambirAgrawal/Job-Application-Bot)
+
+[![Execify](https://img.shields.io/badge/Execify-Project-blue?style=for-the-badge)](https://github.com/DharambirAgrawal/Execify)
+
+[![Vayumi](https://img.shields.io/badge/Vayumi-Project-green?style=for-the-badge)](https://github.com/DharambirAgrawal/Vayumi)
+
+[![Job Bot](https://img.shields.io/badge/Job%20Bot-Automation-orange?style=for-the-badge)](https://github.com/DharambirAgrawal/Job-Application-Bot)
 
 ---
 

@@ -10,7 +10,6 @@
 🧠 &nbsp;Active in **AI Club (Vice President)**, **ACM**, and **NSBE**, contributing to projects that combine AI and user experience.  
 ✍️ &nbsp;In my spare time, I enjoy **graphic design**, **blog writing**, and **open-source projects**.  
 📫 &nbsp;Reach me at **[dev.dharambir@gmail.com](mailto:dev.dharambir@gmail.com)** — always happy to connect or collaborate!  
-📄 &nbsp;Check out my [Résumé](https://github.com/DharambirAgrawal/DharambirAgrawal/blob/main/resume.pdf) for details.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -91,7 +90,7 @@
 - **[flyero](https://github.com/DharambirAgrawal/flyero)** — generates marketing flyers from a single prompt through an MCP server, judging competing design candidates against quality gates instead of filling a template.
 - **[Medicine-Recognizer](https://github.com/DharambirAgrawal/Medicine-Recognizer)** — desktop computer-vision app that recognizes medicines with YOLOv8/EfficientNet-B0 and detects falls or seizures via pose estimation.
 - **[LLM-hallucination-Research](https://github.com/DharambirAgrawal/LLM-hallucination-Research)** — local (Ollama) benchmark harness that scores LLM hallucinations and tests whether RAG, constrained decoding, and self-verification actually reduce them.
-- **[Distributed-File-System](https://github.com/DharambirAgrawal/Distributed-File-System)** — Flask document-management app with BFS/DFS/A* search, OCR text extraction, and encrypted, password-protected share links.
+- **[DocVault](https://github.com/DharambirAgrawal/DocVault)** — Flask document-management app with BFS/DFS/A* search, OCR text extraction, and encrypted, password-protected share links.
 
 ---
 

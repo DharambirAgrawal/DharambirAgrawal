@@ -1,17 +1,15 @@
 ![Dharambir Agrawal Banner](https://github.com/DharambirAgrawal/DharambirAgrawal/blob/main/bg.jpg)
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 <h2>Hey there! I'm Dharambir 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a passionate developer exploring **Artificial Intelligence**, **Systems Design**, and **Cloud Architecture**.  
-🎓 &nbsp;Currently pursuing **B.S. in Computer Science** at **Grambling State University** (Dean’s List, Honors College Member).  
+💡 &nbsp;I build **AI agents and developer tooling** — sandboxed code-execution infrastructure, autonomous assistants, and MCP servers that let AI models act directly on real systems.  
+🎓 &nbsp;Currently pursuing **B.S. in Computer Science** at **Grambling State University** (Dean's List, Honors College Member).  
 💼 &nbsp;**Web Developer Intern** at the College of Business, where I optimize academic websites for performance and accessibility.  
 🧠 &nbsp;Active in **AI Club (Vice President)**, **ACM**, and **NSBE**, contributing to projects that combine AI and user experience.  
 ✍️ &nbsp;In my spare time, I enjoy **graphic design**, **blog writing**, and **open-source projects**.  
 📫 &nbsp;Reach me at **[dev.dharambir@gmail.com](mailto:dev.dharambir@gmail.com)** — always happy to connect or collaborate!  
-📄 &nbsp;Check out my [Résumé](https://www.dharambir.com.np/resume) for details.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -20,17 +18,19 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Claude / MCP](https://img.shields.io/badge/-Claude%20%2F%20MCP-05122A?style=flat&logo=anthropic)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
@@ -56,12 +56,41 @@
 
 ### 🚀 &nbsp;Highlighted Projects
 
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/DharambirAgrawal/Vayumi"><img src="https://img.shields.io/badge/Vayumi-AI%20Agent-2ea44f?style=for-the-badge" /></a><br/>
+<sub>A superhuman personal AI agent that listens, understands context, remembers people and meetings, and takes actions on your behalf.</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/DharambirAgrawal/clip-agent"><img src="https://img.shields.io/badge/clip--agent-Video%20AI-6f42c1?style=for-the-badge" /></a><br/>
+<sub>AI-driven video editing with an MCP server so Claude can edit video directly.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/DharambirAgrawal/Execify"><img src="https://img.shields.io/badge/Execify-Sandboxed%20Execution-0366d6?style=for-the-badge" /></a><br/>
+<sub>A sandboxed code-execution engine that runs Python/Node.js inside isolated Docker workers behind a simple HTTP API.</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/DharambirAgrawal/CODEWEAVER"><img src="https://img.shields.io/badge/CodeWeaver-Code%20Generation-e36209?style=for-the-badge" /></a><br/>
+<sub>Turns natural-language requests into generated code, executed and verified through Execify.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<a href="https://github.com/DharambirAgrawal/Backtesting-Alphaengine"><img src="https://img.shields.io/badge/AlphaEngine-Quant%20%2B%20ML-d73a49?style=for-the-badge" /></a><br/>
+<sub>A paper-trading platform with real market data, LSTM/XGBoost models, and an automated trading agent — no real money involved.</sub>
+</td>
+</tr>
+</table>
 
-[![Execify](https://img.shields.io/badge/Execify-Project-blue?style=for-the-badge)](https://github.com/DharambirAgrawal/Execify)
+**Other notable projects:**
 
-[![Vayumi](https://img.shields.io/badge/Vayumi-Project-green?style=for-the-badge)](https://github.com/DharambirAgrawal/Vayumi)
-
-[![Job Bot](https://img.shields.io/badge/Job%20Bot-Automation-orange?style=for-the-badge)](https://github.com/DharambirAgrawal/Job-Application-Bot)
+- **[flyero](https://github.com/DharambirAgrawal/flyero)** — generates marketing flyers from a single prompt through an MCP server, judging competing design candidates against quality gates instead of filling a template.
+- **[Medicine-Recognizer](https://github.com/DharambirAgrawal/Medicine-Recognizer)** — desktop computer-vision app that recognizes medicines with YOLOv8/EfficientNet-B0 and detects falls or seizures via pose estimation.
+- **[LLM-hallucination-Research](https://github.com/DharambirAgrawal/LLM-hallucination-Research)** — local (Ollama) benchmark harness that scores LLM hallucinations and tests whether RAG, constrained decoding, and self-verification actually reduce them.
+- **[DocVault](https://github.com/DharambirAgrawal/DocVault)** — Flask document-management app with BFS/DFS/A* search, OCR text extraction, and encrypted, password-protected share links.
 
 ---
 

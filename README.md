@@ -4,12 +4,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I build **AI agents and developer tooling** — sandboxed code-execution infrastructure, autonomous assistants, and MCP servers that let AI models act directly on real systems.  
+💡 &nbsp;I build **AI agents and developer tooling**: sandboxed code-execution infrastructure, autonomous assistants, and MCP servers that let AI models act directly on real systems.  
 🎓 &nbsp;Currently pursuing **B.S. in Computer Science** at **Grambling State University** (Dean's List, Honors College Member).  
 💼 &nbsp;**Web Developer Intern** at the College of Business, where I optimize academic websites for performance and accessibility.  
 🧠 &nbsp;Active in **AI Club (Vice President)**, **ACM**, and **NSBE**, contributing to projects that combine AI and user experience.  
 ✍️ &nbsp;In my spare time, I enjoy **graphic design**, **blog writing**, and **open-source projects**.  
-📫 &nbsp;Reach me at **[dev.dharambir@gmail.com](mailto:dev.dharambir@gmail.com)** — always happy to connect or collaborate!  
+📫 &nbsp;Reach me at **[dev.dharambir@gmail.com](mailto:dev.dharambir@gmail.com)**. Always happy to connect or collaborate!  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -80,17 +80,17 @@
 <tr>
 <td align="center" colspan="2">
 <a href="https://github.com/DharambirAgrawal/Backtesting-Alphaengine"><img src="https://img.shields.io/badge/AlphaEngine-Quant%20%2B%20ML-d73a49?style=for-the-badge" /></a><br/>
-<sub>A paper-trading platform with real market data, LSTM/XGBoost models, and an automated trading agent — no real money involved.</sub>
+<sub>A paper-trading platform with real market data, LSTM/XGBoost models, and an automated trading agent (no real money involved).</sub>
 </td>
 </tr>
 </table>
 
 **Other notable projects:**
 
-- **[flyero](https://github.com/DharambirAgrawal/flyero)** — generates marketing flyers from a single prompt through an MCP server, judging competing design candidates against quality gates instead of filling a template.
-- **[Medicine-Recognizer](https://github.com/DharambirAgrawal/Medicine-Recognizer)** — desktop computer-vision app that recognizes medicines with YOLOv8/EfficientNet-B0 and detects falls or seizures via pose estimation.
-- **[LLM-hallucination-Research](https://github.com/DharambirAgrawal/LLM-hallucination-Research)** — local (Ollama) benchmark harness that scores LLM hallucinations and tests whether RAG, constrained decoding, and self-verification actually reduce them.
-- **[DocVault](https://github.com/DharambirAgrawal/DocVault)** — Flask document-management app with BFS/DFS/A* search, OCR text extraction, and encrypted, password-protected share links.
+- **[flyero](https://github.com/DharambirAgrawal/flyero)**: generates marketing flyers from a single prompt through an MCP server, judging competing design candidates against quality gates instead of filling a template.
+- **[Medicine-Recognizer](https://github.com/DharambirAgrawal/Medicine-Recognizer)**: desktop computer-vision app that recognizes medicines with YOLOv8/EfficientNet-B0 and detects falls or seizures via pose estimation.
+- **[LLM-hallucination-Research](https://github.com/DharambirAgrawal/LLM-hallucination-Research)**: local (Ollama) benchmark harness that scores LLM hallucinations and tests whether RAG, constrained decoding, and self-verification actually reduce them.
+- **[DocVault](https://github.com/DharambirAgrawal/DocVault)**: Flask document-management app with BFS/DFS/A* search, OCR text extraction, and encrypted, password-protected share links.
 
 ---
 
